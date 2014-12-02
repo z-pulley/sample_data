@@ -1,0 +1,111 @@
+{
+  "layerType": "Annotation",
+  "layerName": "Forecast Heavy-Medium-Light",
+  "layerAnnotations": [
+    {
+      "name": "ForecastLight",
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -87.503,
+          28.956
+        ]
+      },
+      "html": "<center><b>Forecast Light <div style='background-color:#00ffff;border:1px solid #000000;width:16px;height:16px;'></div></b></center>",
+      "options": {
+        "popupOffsetx": 150,
+        "popupOffsety": 0,
+        "popupSizex": 150,
+        "popupSizey": 120,
+        "popupAutosize": "both",
+        "popupBackgroundColor": "#ffffff",
+        "popupBorderWidth": 2,
+        "popupBorderLinefont": "solid",
+        "popupBorderColor": "#000000",
+        "leaderAttach": 5,
+        "leaderWidth": 2,
+        "leaderColor": "#000000",
+        "leaderEdgeWidth": 1,
+        "leaderEdgeColor": "#ffffff",
+        "iconShow": false,
+        "icon": {
+          "url": "OpenLayers-2.12/theme/default/img/overview_replacement.gif",
+          "sizex": 20,
+          "sizey": 20,
+          "offsetx": -10,
+          "offsety": -10
+        }
+      }
+    },
+    {
+      "name": "ForecastMedium",
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -88.877,
+          28.460
+        ]
+      },
+      "html": "<center><b>Forecast Medium <div style='background-color:#4169e1;border:1px solid #000000;width:16px;height:16px;'></div></b></center>",
+      "options": {
+        "popupOffsetx": -150,
+        "popupOffsety": 150,
+        "popupSizex": 150,
+        "popupSizey": 120,
+        "popupAutosize": "both",
+        "popupBackgroundColor": "#ffffff",
+        "popupBorderWidth": 2,
+        "popupBorderLinefont": "solid",
+        "popupBorderColor": "#000000",
+        "leaderAttach": 5,
+        "leaderWidth": 2,
+        "leaderColor": "#000000",
+        "leaderEdgeWidth": 1,
+        "leaderEdgeColor": "#ffffff",
+        "iconShow": false,
+        "icon": {
+          "url": "OpenLayers-2.12/theme/default/img/overview_replacement.gif",
+          "sizex": 20,
+          "sizey": 20,
+          "offsetx": -10,
+          "offsety": -10
+        }
+      }
+    },
+    {
+      "name": "ForecastHeavy",
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -88.382,
+          28.653
+        ]
+      },
+      "html": "<center><b>Forecast Heavy <div style='background-color:#0000ff;border:1px solid #000000;width:16px;height:16px;'></div></b></center>",
+      "options": {
+        "popupOffsetx": 0,
+        "popupOffsety": 200,
+        "popupSizex": 150,
+        "popupSizey": 120,
+        "popupAutosize": "both",
+        "popupBackgroundColor": "#ffffff",
+        "popupBorderWidth": 2,
+        "popupBorderLinefont": "solid",
+        "popupBorderColor": "#000000",
+        "leaderAttach": 5,
+        "leaderWidth": 2,
+        "leaderColor": "#000000",
+        "leaderEdgeWidth": 1,
+        "leaderEdgeColor": "#ffffff",
+        "iconShow": false,
+        "icon": {
+          "url": "OpenLayers-2.12/theme/default/img/overview_replacement.gif",
+          "sizex": 20,
+          "sizey": 20,
+          "offsetx": -10,
+          "offsety": -10
+        }
+      }
+    }
+  ]
+}
